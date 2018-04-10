@@ -20,7 +20,7 @@ export const navKeys = {
 
 const Header = ({ selected }) => (
 	<div className={classes.container}>
-		<Heading level={3} color="white" className={classes.siteName}>
+		<Heading accent="liferayBlue" level={3} color="white" className={classes.siteName}>
 			Liferay.Design
 		</Heading>
 

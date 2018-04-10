@@ -3,14 +3,23 @@ import React from 'react'
 import classes from './Heading.scss'
 import { colors } from 'theme'
 
-const Heading = ({ align, bottomBorder, className, color, children, level }) => {
+const Heading = ({ accent, align, bottomBorder, className, color, children, level }) => {
 	const Header = `h${level}`
 	const borderClass = bottomBorder ? 'bottomBorder' : ''
+	let styles = { color: colors[color], textAlign: align }
+	if (accent) {
+		styles = Object.assign({}, styles, {
+			borderBottom: `3px solid ${colors[accent]}`,
+			width: '20px',
+			paddingBottom: '16px',
+		})
+		console.log(styles)
+	}
 
 	return (
 		<Header
 			className={`${className} ${classes[Header]} ${classes[borderClass]}`}
-			style={{ color: colors[color], textAlign: align }}
+			style={styles}
 		>
 			{children}
 		</Header>
@@ -18,6 +27,7 @@ const Heading = ({ align, bottomBorder, className, color, children, level }) => 
 }
 
 Heading.propTypes = {
+	accent: PropTypes.string,
 	align: PropTypes.string,
 	bottomBorder: PropTypes.bool,
 	className: PropTypes.string,

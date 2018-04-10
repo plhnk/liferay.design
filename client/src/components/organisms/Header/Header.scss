@@ -1,8 +1,9 @@
 @import '~theme/variables';
 
 .container {
+	align-items: flex-start;
 	display: flex;
-	margin: 3em;
+	margin: 2em 5em;
 	position: relative;
 	justify-content: space-between;
 	@media screen and (max-width: $screenMedium) {

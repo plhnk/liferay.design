@@ -2,11 +2,12 @@
 const colors = {
 	primary: '#0055FD',
 	secondary: '#95BDFF',
-	grey: '#a4a4a4',
+	grey: '#878787',
 	white: '#FFF',
 	black: '#1F2123',
 	lightGrey: '#c0c0c0',
 	lightestGrey: '#e7e7e7',
+	liferayBlue: '#0058FF',
 }
 
 const fontSizes = {
