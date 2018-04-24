@@ -6,12 +6,13 @@ import { colors } from 'theme'
 const Heading = ({ accent, align, bottomBorder, className, color, children, level }) => {
 	const Header = `h${level}`
 	const borderClass = bottomBorder ? 'bottomBorder' : ''
+
 	let styles = { color: colors[color], textAlign: align }
+
 	if (accent) {
 		styles = Object.assign({}, styles, {
 			borderBottom: `3px solid ${colors[accent]}`,
 			width: '20px',
-			paddingBottom: '16px',
 		})
 		console.log(styles)
 	}
