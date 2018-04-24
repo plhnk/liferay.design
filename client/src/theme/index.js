@@ -1,12 +1,12 @@
 // Colors are same as in variables.scss
 const colors = {
-	primary: '#0055FD',
+	primary: '#0058FF',
 	secondary: '#95BDFF',
-	grey: '#a4a4a4',
+	grey: '#878787',
 	white: '#FFF',
-	black: '#1C1B1B',
-	lightGrey: '#c0c0c0',
-	lightestGrey: '#e7e7e7',
+	black: '#1F2123',
+	lightGrey: '#C0C0C0',
+	lightestGrey: '#E7E7E7',
 }
 
 const fontSizes = {
