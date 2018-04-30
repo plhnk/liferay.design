@@ -24,14 +24,16 @@ const Header = ({ selected }) => (
 			Liferay.Design
 		</Heading>
 
-		{/* <Navbar
-			className={classes.navbar}
-			href={`#{option}`}
-			options={List([TEAM, ARTICLES, EVENTS, CAREERS])}
-			optionsMap={Map(navKeys)}
-			selected={selected}
-			key="navbar"
-		/> */}
+		{/*
+			<Navbar
+				className={classes.navbar}
+				href={`#{option}`}
+				options={List([TEAM, ARTICLES, EVENTS, CAREERS])}
+				optionsMap={Map(navKeys)}
+				selected={selected}
+				key="navbar"
+			/>
+		*/}
 	</div>
 )
 
