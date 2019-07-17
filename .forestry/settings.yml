@@ -20,7 +20,7 @@ sections:
   match: "**/*"
   new_doc_ext: md,.mdx
   templates:
-  - blueprints
+  - handbook-article
 - type: directory
   path: src/markdown/careers
   label: Careers
@@ -33,26 +33,36 @@ sections:
   label: Events
   create: all
   match: "**/*"
+  templates:
+  - events
 - type: directory
   path: src/markdown/handbook
   label: Handbook
   create: all
   match: "**/*"
+  templates:
+  - handbook-article
 - type: directory
   path: src/markdown/lexicon
   label: Lexicon (current)
   create: all
   match: "**/*"
+  templates:
+  - handbook-article
 - type: directory
   path: src/markdown/lexicon-1
   label: Lexicon (1.0)
   create: all
   match: "**/*"
+  templates:
+  - handbook-article
 - type: directory
   path: src/markdown/resources
   label: Resources
   create: all
   match: "**/*"
+  templates:
+  - handbook-article
 - type: directory
   path: src/markdown/team
   label: Team
