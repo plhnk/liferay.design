@@ -1,0 +1,40 @@
+---
+label: Events
+hide_body: false
+fields:
+- type: boolean
+  name: draft
+  label: draft
+- type: text
+  name: author
+  label: author
+- type: text
+  name: title
+  label: title
+- type: file
+  name: featuredImage
+  label: featuredImage
+- type: text
+  name: description
+  label: description
+- type: datetime
+  name: startDateTime
+  label: startDateTime
+- type: text
+  name: endDateTime
+  label: endDateTime
+- type: textarea
+  name: summary
+  label: summary
+- type: text
+  name: locationName
+  label: locationName
+- type: text
+  name: locationURL
+  label: locationURL
+- type: text
+  name: heroImage
+  label: heroImage
+- type: file
+  name: bodyImage
+  label: bodyImage
