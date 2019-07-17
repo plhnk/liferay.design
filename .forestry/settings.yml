@@ -19,6 +19,8 @@ sections:
   create: all
   match: "**/*"
   new_doc_ext: md,.mdx
+  templates:
+  - blueprints
 - type: directory
   path: src/markdown/careers
   label: Careers
@@ -26,8 +28,8 @@ sections:
   match: "**/*"
   templates:
   - carreer
-upload_dir: uploads
-public_path: "/uploads"
+upload_dir: images
+public_path: "/images"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
