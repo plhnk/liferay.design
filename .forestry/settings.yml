@@ -28,8 +28,8 @@ sections:
   match: "**/*"
   templates:
   - carreer
-upload_dir: images
-public_path: "/images"
+upload_dir: front-matter-media
+public_path: "/front-matter-media"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
