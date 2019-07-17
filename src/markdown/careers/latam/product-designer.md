@@ -1,14 +1,14 @@
 ---
-cityRegion: 'Recife, Brazil'
-applyLink: 'https://app.jobvite.com/j?aj=oEG79fwk&s=liferay-dot-design'
-date: '2019-05-05'
-title: 'Product Designer'
-description: 'Recife 🇧🇷'
-featuredImage: '/images/posts/design-week-n.jpg'
-avatar: '/images/headshots/-nerd-face.png'
+cityRegion: Recife, Brazil
+applyLink: https://app.jobvite.com/j?aj=oEG79fwk&s=liferay-dot-design
+date: 2019-05-05
+title: Product Designer
+description: "Recife \U0001F1E7\U0001F1F7"
+featuredImage: "/images/posts/design-week-n.jpg"
+avatar: "/images/headshots/-nerd-face.png"
 published: false
----
 
+---
 ## Who Designs at Liferay?
 
 Design is [a team sport](https://www.oreilly.com/ideas/12-qualities-of-effective-design-organizations) — while our athletic accomplishments are limited, our commitment to building a strong team is not. We firmly believe in going far together — what this looks like is passion for producing excellence and a patient tenacity to make improvements over time.

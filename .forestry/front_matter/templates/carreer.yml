@@ -27,3 +27,6 @@ fields:
 - type: file
   name: featuredImage
   label: featuredImage
+pages:
+- src/markdown/careers/latam/product-designer.md
+- src/markdown/careers/na/product-designer.md
