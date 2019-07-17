@@ -1,0 +1,28 @@
+---
+label: Carreer
+hide_body: false
+fields:
+- type: text
+  name: cityRegion
+  label: cityRegion
+- type: text
+  name: applyLink
+  label: applyLink
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: file
+  name: featuredImage
+  label: featuredImage
+- type: file
+  name: avatar
+  label: avatar
+- type: boolean
+  name: published
+  label: published
