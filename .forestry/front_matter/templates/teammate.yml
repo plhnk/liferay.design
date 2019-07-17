@@ -1,0 +1,26 @@
+---
+label: Teammate
+hide_body: false
+display_field: name
+fields:
+- type: text
+  name: name
+  label: name
+- type: text
+  name: title
+  label: title
+- type: file
+  name: headshotPro
+  label: headshotPro
+- type: file
+  name: headshotFun
+  label: headshotFun
+- type: boolean
+  name: active
+  label: active
+- type: text
+  name: startYear
+  label: startYear
+- type: text
+  name: icon
+  label: icon
