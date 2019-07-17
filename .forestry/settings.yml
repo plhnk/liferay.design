@@ -68,6 +68,8 @@ sections:
   label: Team
   create: all
   match: "**/*"
+  templates:
+  - teammate
 upload_dir: static
 public_path: ''
 front_matter_path: ''
