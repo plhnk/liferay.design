@@ -18,7 +18,7 @@ sections:
   label: Blueprints
   create: all
   match: "**/*"
-  new_doc_ext: ".md,.mdx"
+  new_doc_ext: md,.mdx
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
