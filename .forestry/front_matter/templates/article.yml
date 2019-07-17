@@ -2,37 +2,24 @@
 label: Article
 hide_body: false
 fields:
-- name: title
-  type: text
-  config:
-    required: false
-  label: Title
-- name: date
-  type: datetime
-  label: Date
-  description: ''
-  config:
-    required: false
-    date_format: 
-    time_format: 
-    display_utc: false
-- name: author
-  type: text
-  config:
-    required: false
-  label: Author
-- name: avatar
-  type: text
-  config:
-    required: false
-  label: Avatar
-- name: description
-  type: text
-  config:
-    required: false
-  label: Read Time
-- name: featuredimage
-  type: text
-  config:
-    required: false
-  label: Featured Image
+- type: text
+  name: author
+  label: author
+- type: text
+  name: authorLink
+  label: authorLink
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: file
+  name: featuredImage
+  label: featuredImage
+- type: file
+  name: avatar
+  label: avatar
