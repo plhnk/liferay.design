@@ -24,6 +24,8 @@ sections:
   label: Careers
   create: all
   match: "**/*"
+  templates:
+  - carreer
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''

@@ -1,14 +1,14 @@
 ---
-cityRegion: 'Milan, Italy'
-applyLink: 'https://jobs.jobvite.com/liferay/job/oxqi9fw8/apply'
-date: '2019-02-28'
-title: 'Product Designer'
-description: 'Milan 🇮🇹'
-featuredImage: '/images/posts/design-week-n.jpg'
-avatar: '/images/headshots/-sunglasses.png'
+cityRegion: Milan, Italy
+applyLink: https://jobs.jobvite.com/liferay/job/oxqi9fw8/apply
+date: 2019-02-28
+title: Product Designer
+description: "Milan \U0001F1EE\U0001F1F9"
+featuredImage: "/images/posts/design-week-n.jpg"
+avatar: "/images/headshots/-sunglasses.png"
 published: false
----
 
+---
 Come UX Designer in Liferay, entrerai a far parte di un team di prodotto cross funzionale. Lavorerai a stretto contatto con manager di prodotto, sviluppatori, tester e altri designer per creare e progettare nuovi prodotti e migliorare le interfacce esistenti basandoti sulle esigenze degli utenti, i requisiti di prodotto e gli obiettivi di business.
 
 Stiamo cercando un esperto e talentuoso UX Designer con forti doti di Graphic Design, capace di creare eccellenti progetti. Vogliamo un designer dotato di acuta intuizione e che sia a proprio agio nel parlare di design e tutto ciò che riguarda le esigenze del caso.

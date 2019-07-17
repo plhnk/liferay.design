@@ -1,14 +1,14 @@
 ---
-cityRegion: 'Madrid, Spain'
-applyLink: 'https://jobs.jobvite.com/liferay/job/oPun8fwy/apply'
-date: '2019-02-28'
-title: 'Communication Designer'
-description: 'Madrid 🇪🇸'
-featuredImage: '/images/events/ldsf-2017-markus.jpg'
-avatar: '/images/headshots/-heart-eyes-cat.png'
+cityRegion: Madrid, Spain
+applyLink: https://jobs.jobvite.com/liferay/job/oPun8fwy/apply
+date: 2019-02-28
+title: Communication Designer
+description: "Madrid \U0001F1EA\U0001F1F8"
+featuredImage: "/images/events/ldsf-2017-markus.jpg"
+avatar: "/images/headshots/-heart-eyes-cat.png"
 published: true
----
 
+---
 ## Who Designs at Liferay?
 
 Design is [a team sport](https://www.oreilly.com/ideas/12-qualities-of-effective-design-organizations) — while our athletic accomplishments are limited, our commitment to building a strong team is not. We firmly believe in going far together — what this looks like is passion for producing excellence and a patient tenacity to make improvements over time.

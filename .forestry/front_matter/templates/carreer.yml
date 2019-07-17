@@ -28,5 +28,7 @@ fields:
   name: featuredImage
   label: featuredImage
 pages:
+- src/markdown/careers/emea/graphic-designer.md
+- src/markdown/careers/emea/product-designer.md
 - src/markdown/careers/latam/product-designer.md
 - src/markdown/careers/na/product-designer.md
