@@ -11,6 +11,8 @@ sections:
   label: Articles
   create: all
   match: "**/*"
+  templates:
+  - article
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
