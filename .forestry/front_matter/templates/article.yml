@@ -2,11 +2,11 @@
 label: Article
 hide_body: false
 fields:
-- name: author
+- name: title
   type: text
   config:
     required: false
-  label: Author
+  label: Title
 - name: date
   type: datetime
   label: Date
@@ -16,11 +16,16 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
-- name: title
+- name: author
   type: text
   config:
     required: false
-  label: Title
+  label: Author
+- name: avatar
+  type: text
+  config:
+    required: false
+  label: Avatar
 - name: description
   type: text
   config:
@@ -31,8 +36,3 @@ fields:
   config:
     required: false
   label: Featured Image
-- name: avatar
-  type: text
-  config:
-    required: false
-  label: Avatar
