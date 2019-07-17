@@ -28,6 +28,11 @@ sections:
   match: "**/*"
   templates:
   - carreer
+- type: directory
+  path: src/markdown/events
+  label: Events
+  create: all
+  match: "**/*"
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
