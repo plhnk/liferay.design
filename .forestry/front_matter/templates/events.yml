@@ -39,4 +39,5 @@ fields:
   name: bodyImage
   label: bodyImage
 pages:
+- src/markdown/events/this-is-my-first-event.md
 - src/markdown/events/design-event.md
