@@ -1,12 +1,13 @@
 ---
-title: 'Grid'
-titleLabel: 'Clay'
-titleLabelLink: 'https://clayui.com/docs/layout/grid.html'
-description: 'The main structural pattern that underlies the construction and positioning of all system components.'
-order: 105
+title: Grid
+titleLabel: Clay
+titleLabelLink: https://clayui.com/docs/layout/grid.html
+description: The main structural pattern that underlies the construction and positioning
+  of all system components.
+order: '103'
 draft: false
----
 
+---
 Lexicon's layout framework aims to provide a common structural reference to ease the component creation and page composition processes, as well as to provide a visual consistency between the different elements of the interface.
 
 ### Base Grid
