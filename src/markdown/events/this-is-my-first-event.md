@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 author: jon wood
 title: this is my first event
 featuredImage: "/Screen Shot 2019-07-08 at 16.11.17.png"
@@ -13,4 +13,4 @@ heroImage: huh how to put in hero image for text field?
 bodyImage: "/Claim.jpg"
 
 ---
-im guessing this is th ebody section!
+im guessing this is th ebody section!aaasdf
