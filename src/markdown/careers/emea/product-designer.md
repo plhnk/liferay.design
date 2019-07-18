@@ -1,7 +1,7 @@
 ---
 cityRegion: Milan, Italy
 applyLink: https://jobs.jobvite.com/liferay/job/oxqi9fw8/apply
-date: 2019-02-28
+date: 2019-07-27T07:00:00Z
 title: Product Designer
 description: "Milan \U0001F1EE\U0001F1F9"
 featuredImage: "/images/posts/design-week-n.jpg"
