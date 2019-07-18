@@ -1,12 +1,12 @@
 ---
 cityRegion: Los Angeles, CA
 applyLink: https://app.jobvite.com/j?aj=oqKh9fwk&s=liferay-dot-design
-date: 2018-12-10
+date: 2018-12-10T08:00:00Z
 title: Product Designer
 description: "Los Angeles \U0001F1FA\U0001F1F8"
 featuredImage: "/images/posts/ux-designer.jpg"
 avatar: "/images/headshots/-nerd-face.png"
-published: false
+published: true
 
 ---
 ## Who Designs at Liferay?
