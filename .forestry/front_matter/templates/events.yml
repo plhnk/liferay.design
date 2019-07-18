@@ -38,3 +38,5 @@ fields:
 - type: file
   name: bodyImage
   label: bodyImage
+pages:
+- src/markdown/events/design-event.md
