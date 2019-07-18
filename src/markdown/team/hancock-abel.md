@@ -1,13 +1,13 @@
 ---
-name: 'Abel Hancock'
-title: 'Product Designer'
-headshotPro: '/images/headshots/hancock-abel.jpg'
-headshotFun: '/images/headshots/hancock-abel-h.jpg'
+name: Abel Hancock
+title: Product Designer
+headshotPro: "/Screen Shot 2019-05-10 at 1.57.54 PM.png"
+headshotFun: "/IMG_2583.jpg"
 active: true
-startYear: '2017'
-icon: 'fa_code'
----
+startYear: "2017"
+icon: fa_code
 
+---
 ### Favorite tool? 🛠
 
 For design? Figma.
