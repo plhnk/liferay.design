@@ -1,12 +1,13 @@
 ---
-title: 'Animations'
-titleLabel: 'Clay'
-titleLabelLink: 'https://clayui.com/'
-description: "Animations are used to transmit messages while capturing the user's attention in different ways."
-order: 103
+title: Animations
+titleLabel: Clay
+titleLabelLink: https://clayui.com/
+description: Animations are used to transmit messages while capturing the user's attention
+  in different ways.
+order: '104'
 draft: false
----
 
+---
 ### Usage
 
 Lexicon provides animations that you can use in your sites and apps. They should only be used to support a message. Specific examples can be found in [dataset display](../core-components/dataset-display).
