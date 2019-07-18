@@ -6,7 +6,7 @@ title: Product Designer
 description: "Recife \U0001F1E7\U0001F1F7"
 featuredImage: "/images/posts/design-week-n.jpg"
 avatar: "/images/headshots/-nerd-face.png"
-published: false
+published: true
 
 ---
 ## Who Designs at Liferay?
