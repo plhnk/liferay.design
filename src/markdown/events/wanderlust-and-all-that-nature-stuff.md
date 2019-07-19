@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 author: Mr. Big
 title: Wanderlust and all that nature stuff
 featuredImage: "/tyler-nix-6mze64HRU2Q-unsplash.jpg"
