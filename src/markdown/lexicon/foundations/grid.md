@@ -4,7 +4,7 @@ titleLabel: Clay
 titleLabelLink: https://clayui.com/docs/layout/grid.html
 description: The main structural pattern that underlies the construction and positioning
   of all system components.
-order: '103'
+order: '104'
 draft: false
 
 ---
