@@ -39,6 +39,7 @@ fields:
   name: bodyImage
   label: bodyImage
 pages:
+- src/markdown/events/event-of-the-century.md
 - src/markdown/events/test-event-1.md
 - src/markdown/events/design-at-scale-test.md
 - src/markdown/events/test-event.md
