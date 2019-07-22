@@ -9,6 +9,8 @@ avatar: "/images/headshots/-sunglasses.png"
 published: true
 
 ---
+CJ was here and it was already published!!!
+
 Jon was here and it's published!!!
 
 Come UX Designer in Liferay, entrerai a far parte di un team di prodotto cross funzionale. Lavorerai a stretto contatto con manager di prodotto, sviluppatori, tester e altri designer per creare e progettare nuovi prodotti e migliorare le interfacce esistenti basandoti sulle esigenze degli utenti, i requisiti di prodotto e gli obiettivi di business.
