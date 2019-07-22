@@ -39,6 +39,7 @@ fields:
   name: bodyImage
   label: bodyImage
 pages:
+- src/markdown/events/test-event-1.md
 - src/markdown/events/design-at-scale-test.md
 - src/markdown/events/test-event.md
 - src/markdown/events/wanderlust-and-all-that-nature-stuff.md
