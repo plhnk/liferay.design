@@ -1,7 +1,7 @@
 ---
 name: Abel Hancock
 title: Product Designer
-headshotPro: "/alex-iby-470eBDOc8bk-unsplash.jpg"
+headshotPro: "/adrien-king-QfSECLZNFB0-unsplash.jpg"
 headshotFun: "/aiony-haust-3TLl_97HNJo-unsplash.jpg"
 active: true
 startYear: "2017"
